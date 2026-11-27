@@ -1,142 +1,74 @@
-# PHRASAL VERBS
+![Phrasal Verbs app icon](./public/icon.svg)
 
-### Master English Phrasal Verbs. One Expression at a Time.
+# Phrasal Verbs — English Learning PWA
 
-A modern, interactive learning platform built to make mastering English phrasal verbs simpler, faster, and more accessible.
+An interactive English phrasal-verbs learning application developed by **shakur4min**. The project turns an educational reference into a browser-based learning experience with a responsive interface and installable PWA support.
 
-PHRASAL VERBS transforms an essential part of English vocabulary into a clean, intuitive, and accessible digital learning experience. Study, explore, and improve your understanding of everyday English expressions — anytime, anywhere, on almost any device.
-
----
-
-## LIVE APPLICATION
-
-### Start Learning. No Limits.
-
-**[OPEN PHRASAL VERBS](https://shakur4min.github.io/Phrasal-verbs/)**
-
-No installation. No downloads. No complicated setup.
-
-Open the application in your browser and start learning instantly.
+<p align="center">
+  <a href="https://shakur4min.github.io/Phrasal-verbs/"><strong>Open the app</strong></a>
+  ·
+  <a href="https://github.com/shakur4min/Phrasal-verbs">Source repository</a>
+</p>
 
 ---
 
-## ABOUT THE PROJECT
+## App preview
 
-PHRASAL VERBS is designed for English learners who want to move beyond basic vocabulary and develop a deeper understanding of natural English.
+<p align="center">
+  <img src="./public/pwa-512x512.png" alt="Phrasal Verbs app icon" width="160" />
+</p>
 
-The platform focuses on helping learners:
+Use the app in a modern browser or install it on a supported device from the browser's install/add-to-home-screen option.
 
-- Expand their English vocabulary.
-- Understand everyday English expressions.
-- Improve reading and comprehension skills.
-- Recognize phrasal verbs in real-world contexts.
-- Build confidence in understanding and using natural English.
+## Features
 
-**The mission is simple:**
+- Interactive phrasal-verbs learning experience
+- Responsive interface for desktop and mobile
+- Browser-based access
+- Installable Progressive Web App (PWA)
+- No app-store installation required
 
-Make learning phrasal verbs more accessible, practical, and effective.
+## Educational content & attribution
 
----
+The educational phrasal-verbs material used in this application is based on the PDF resource authored by:
 
-## DEVICE COMPATIBILITY
+**Morteza Safdari (مرتضی صفدری)**
 
-Designed for modern devices and operating systems.
+Credit for the original educational material belongs to its author. This project does not claim ownership of that source content.
 
-| Platform | Support |
-|---|---|
-| Windows | Supported |
-| macOS | Supported |
-| Linux | Supported |
-| Android | Supported |
-| iPhone (iOS) | Supported |
-| iPad | Supported |
-| Android Tablets | Supported |
+## Development
 
-### Supported Browsers
+**Application, interface, and PWA development:** shakur4min
 
-- Google Chrome
-- Apple Safari
-- Microsoft Edge
-- Mozilla Firefox
+The web application implementation—including its interface, software development, and PWA adaptation—was developed by shakur4min. This attribution is limited to the software work and does not imply authorship of the educational phrasal-verbs material.
 
-No installation is required. All you need is an internet connection and a modern web browser.
+## Open the app
 
----
+**Live application:** https://shakur4min.github.io/Phrasal-verbs/
 
-## HOW TO ACCESS
+Open the link in a modern browser to begin. On supported browsers, you may add the app to your home screen or install it.
 
-Getting started takes only a few seconds.
+## Install
 
-**1. Open the Application**
+### Android — Chrome
 
-Visit the live application using the link provided above.
+1. Open the app link in Chrome.
+2. Open the browser menu.
+3. Choose **Install app** or **Add to Home screen**, if available.
+4. Confirm the installation.
 
-**2. Let It Load**
+### iPhone / iPad — Safari
 
-The platform runs directly in your browser.
+1. Open the app link in Safari.
+2. Tap **Share**.
+3. Choose **Add to Home Screen** and confirm.
 
-**3. Start Learning**
+## Source code
 
-Explore the available phrasal verbs and use the learning resources.
+Repository: https://github.com/shakur4min/Phrasal-verbs
 
-**4. Take It Anywhere**
-
-Access the platform from your mobile device. You can also add it to your home screen through your browser, if supported.
+The source code is available for inspection. Please refer to the original educational resource for the content and its authorship.
 
 ---
 
-## TECHNOLOGY & DEVELOPMENT
-
-Built as a modern web application with a focus on performance, accessibility, and maintainability.
-
-Core development principles:
-
-- Responsive and adaptive design.
-- Cross-platform compatibility.
-- Browser-based accessibility.
-- Clean and maintainable source code.
-- Continuous development and improvement.
-
-The project is hosted on GitHub, with its source code publicly available for exploration and future development.
-
----
-
-## ORIGINAL RESOURCE & ACKNOWLEDGEMENTS
-
-Special recognition goes to **Mr. M.Safdari** for creating the original educational Phrasal Verbs resource that inspired and provided the foundation for this project.
-
-This project aims to transform that educational material into a more accessible and interactive digital experience.
-
-All credit and recognition for the original educational content belong to its respective creator.
-
----
-
-## SOURCE CODE
-
-Transparency and accessibility are part of this project.
-
-The source code is publicly available on GitHub.
-
-**[VIEW SOURCE CODE ON GITHUB](https://github.com/betelgeuseromaneeconti/Phrasal-verbs)**
-
-Contributions, feedback, and suggestions are welcome.
-
----
-
-## PROJECT VISION
-
-Language learning should not be limited by devices, locations, or complicated tools.
-
-PHRASAL VERBS represents a simple idea: use technology to make essential English learning resources more accessible to everyone.
-
-The goal is not simply to memorize expressions.
-
-It is to understand them, recognize them, and use them naturally.
-
----
-
-# LEARN BEYOND MEMORIZATION.
-
-### Understand Expressions. Build Fluency. Speak Naturally.
-
-**PHRASAL VERBS — ENGLISH LEARNING, REIMAGINED.**
+This repository documents the independently developed application and gives explicit credit to the source of the learning material.
